@@ -40,6 +40,9 @@ jobs:
       - name: Add SPA fallback
         run: cp dist/index.html dist/404.html
 
+      # Fails here with "Resource not accessible by integration" until the
+      # repository owner enables Pages once:
+      #   Settings -> Pages -> Build and deployment -> Source: GitHub Actions
       - name: Configure Pages
         uses: actions/configure-pages@v5
         with:
