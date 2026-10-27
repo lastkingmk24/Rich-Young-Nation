@@ -625,7 +625,7 @@ export const collections: Collection[] = [
     name: 'The New Drop',
     tagline: 'Volume 04 — Fall / Winter 26',
     description:
-      'Eleven pieces designed in one sitting, in one palette. Heavyweight fleece, rigid denim and stone-washed canvas, cut oversized and built to be worn into the ground.',
+      'A tight capsule designed in one sitting, in one palette. Heavyweight fleece, rigid denim and stone-washed canvas — cut oversized and built to be worn into the ground.',
     image: edConcrete,
     accent: '#dcd4c4',
   },
@@ -635,7 +635,7 @@ export const collections: Collection[] = [
     name: 'Core Essentials',
     tagline: 'The permanent collection',
     description:
-      'The pieces we restock forever. Perfect-weight tees, heavyweight fleece and the sweatpant that started it all — in a palette that never dates.',
+      'The pieces we restock forever. Heavyweight fleece, the perfect-weight tee and the sweatpant that started it all — in a palette that never dates.',
     image: hoodieBone,
     accent: '#e9e3d7',
   },

@@ -1,14 +1,14 @@
 import { useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { useScrollLock } from '@/hooks/useReveal';
-import { collections } from '@/data/catalog';
+import { collections, products } from '@/data/catalog';
 import { ArrowUpRight, Close } from '@/components/ui/Icons';
 import { useCart } from '@/store/CartContext';
 
 const LINKS = [
   { label: 'New In', to: '/shop?sort=newest', note: 'Vol. 04' },
-  { label: 'Shop All', to: '/shop', note: '24 pieces' },
-  { label: 'Collections', to: '/collections', note: '3 edits' },
+  { label: 'Shop All', to: '/shop', note: `${products.length} pieces` },
+  { label: 'Collections', to: '/collections', note: `${collections.length} edits` },
   { label: 'Lookbook', to: '/lookbook', note: 'FW26' },
   { label: 'Journal', to: '/journal', note: 'Read' },
 ];

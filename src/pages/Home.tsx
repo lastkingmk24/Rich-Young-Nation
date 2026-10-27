@@ -367,8 +367,8 @@ export default function Home() {
               <p className="mt-6 max-w-[45ch] text-[13.5px] leading-relaxed text-paper/60">
                 We started RYN in a Brooklyn apartment in 2021 with one rule: nothing leaves the
                 studio unless it outlasts three trend cycles. That means 480gsm fleece when the
-                industry averages 280. It means 14oz Japanese denim. It means making eleven pieces
-                instead of ninety.
+                industry averages 280. It means 14oz Japanese denim. It means releasing a small,
+                considered capsule instead of ninety forgettable ones.
               </p>
               <p className="mt-4 max-w-[45ch] text-[13.5px] leading-relaxed text-paper/60">
                 We sell direct, we restock the same core pieces forever, and we price like a

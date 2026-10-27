@@ -24,7 +24,7 @@ export default function Lookbook() {
             Concrete <span className="italic text-acid">Season.</span>
           </h1>
           <p className="mt-5 max-w-[46ch] text-[13.5px] leading-relaxed text-paper/65">
-            Shot over two mornings in a Brutalist gallery in Long Island City. Eleven pieces, one
+            Shot over two mornings in a Brutalist gallery in Long Island City. One capsule, one
             palette, no styling tricks — everything you see is in the collection.
           </p>
           <div className="mt-8">

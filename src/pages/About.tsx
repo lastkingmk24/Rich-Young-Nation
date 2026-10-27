@@ -9,7 +9,7 @@ const VALUES = [
   {
     n: '01',
     title: 'Weight over volume',
-    body: 'We would rather make eleven pieces at 480gsm than ninety at 280. Everything is sampled on-body at least six times before it goes to production.',
+    body: 'We would rather make a handful of pieces at 480gsm than ninety at 280. Everything is sampled on-body at least six times before it goes to production.',
   },
   {
     n: '02',

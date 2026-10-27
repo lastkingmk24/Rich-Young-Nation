@@ -34,7 +34,7 @@ const POSTS = [
     id: 'j3',
     title: 'Inside Volume 04: two mornings in Long Island City',
     excerpt:
-      'We shot the entire season in one Brutalist gallery with one lens. A look behind the campaign with our creative director.',
+      'We shot the entire capsule in one Brutalist gallery with one lens. A look behind the campaign with our creative director.',
     category: 'Studio',
     read: '4 min',
     date: 'Sep 28, 2026',
