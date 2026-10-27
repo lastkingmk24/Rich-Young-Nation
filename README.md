@@ -5,6 +5,8 @@ Built as a single-page React app with a fully client-side commerce flow — no b
 
 ![RYN storefront](docs/hero.jpg)
 
+**[→ See the full visual preview](docs/PREVIEW.md)**
+
 ## What's inside
 
 | Area | Highlights |
