@@ -3,7 +3,12 @@ import react from '@vitejs/plugin-react';
 import tailwindcss from '@tailwindcss/vite';
 import { fileURLToPath, URL } from 'node:url';
 
+// Vercel/Netlify serve from the domain root ('/'); GitHub Pages serves from a
+// sub-path, so the deploy workflow sets VITE_BASE=/<repo>/ at build time.
+const base = process.env.VITE_BASE || '/';
+
 export default defineConfig({
+  base,
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
